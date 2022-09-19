@@ -1,0 +1,21 @@
+/* 公用CSS */
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+/* 文字居中 */
+.tc {
+  text-align: center;
+}
+
+/* 内边距 */
+.pd10 {
+  padding: 1rem;
+}
+
+li {
+  list-style: none;
+  margin: 0px;
+  padding: 0px;
+}

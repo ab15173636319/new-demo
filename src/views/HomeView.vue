@@ -2,7 +2,7 @@
   <div>
     <div class="tc pd10">
       <i class="iconfont">&#xe613;</i>
-      <div>new demo1</div>
+      <div>new demo1 liu guang hui</div>
       <div>{{ title }}</div>
     </div>
     <div class="menus">

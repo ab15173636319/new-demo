@@ -1,4 +1,5 @@
 # vuecli-router-vuer
+这是一个demo项目，没有任何功能。
 
 -1,复制的项目修改`package.json`中的项目名称
 -2,控制台执行`nmp install`初始化项目
